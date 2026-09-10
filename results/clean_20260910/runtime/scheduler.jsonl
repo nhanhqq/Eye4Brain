@@ -1,0 +1,104 @@
+{"time": "2026-09-10T11:20:09.066775+00:00", "event": "start", "jobs": 51, "gpu": "NVIDIA Thor"}
+{"time": "2026-09-10T11:20:09.163815+00:00", "event": "launch", "job": "seediv_f0", "screen": "nq_cd3f4ea9_seediv_f0", "core": 0, "available_ram_mib": 109661.69140625, "free_cuda_mib": 96264.91015625}
+{"time": "2026-09-10T11:20:09.164866+00:00", "event": "launch", "job": "seedv_f0", "screen": "nq_cd3f4ea9_seedv_f0", "core": 1, "available_ram_mib": 101825.83984375, "free_cuda_mib": 93592.91015625}
+{"time": "2026-09-10T11:20:09.165793+00:00", "event": "launch", "job": "seedvii_f0", "screen": "nq_cd3f4ea9_seedvii_f0", "core": 2, "available_ram_mib": 98119.83984375, "free_cuda_mib": 93174.91015625}
+{"time": "2026-09-10T11:20:09.167198+00:00", "event": "launch", "job": "seediv_f1", "screen": "nq_cd3f4ea9_seediv_f1", "core": 3, "available_ram_mib": 94273.83984375, "free_cuda_mib": 92684.91015625}
+{"time": "2026-09-10T11:20:09.168120+00:00", "event": "launch", "job": "seedv_f1", "screen": "nq_cd3f4ea9_seedv_f1", "core": 4, "available_ram_mib": 86481.83984375, "free_cuda_mib": 90012.91015625}
+{"time": "2026-09-10T11:20:09.168977+00:00", "event": "launch", "job": "seedvii_f1", "screen": "nq_cd3f4ea9_seedvii_f1", "core": 5, "available_ram_mib": 82775.83984375, "free_cuda_mib": 89594.41796875}
+{"time": "2026-09-10T11:20:09.169801+00:00", "event": "launch", "job": "seediv_f2", "screen": "nq_cd3f4ea9_seediv_f2", "core": 6, "available_ram_mib": 78929.34765625, "free_cuda_mib": 89104.41796875}
+{"time": "2026-09-10T11:20:09.170403+00:00", "event": "launch", "job": "seedv_f2", "screen": "nq_cd3f4ea9_seedv_f2", "core": 7, "available_ram_mib": 71136.85546875, "free_cuda_mib": 86431.92578125}
+{"time": "2026-09-10T11:20:09.170975+00:00", "event": "launch", "job": "seedvii_f2", "screen": "nq_cd3f4ea9_seedvii_f2", "core": 8, "available_ram_mib": 67430.85546875, "free_cuda_mib": 86013.92578125}
+{"time": "2026-09-10T11:20:09.171532+00:00", "event": "launch", "job": "seediv_f3", "screen": "nq_cd3f4ea9_seediv_f3", "core": 9, "available_ram_mib": 63584.1171875, "free_cuda_mib": 85523.1875}
+{"time": "2026-09-10T11:20:09.172098+00:00", "event": "launch", "job": "seedv_f3", "screen": "nq_cd3f4ea9_seedv_f3", "core": 10, "available_ram_mib": 55790.640625, "free_cuda_mib": 82849.7109375}
+{"time": "2026-09-10T11:20:09.172878+00:00", "event": "launch", "job": "seedvii_f3", "screen": "nq_cd3f4ea9_seedvii_f3", "core": 11, "available_ram_mib": 52083.1640625, "free_cuda_mib": 82428.01953125}
+{"time": "2026-09-10T11:20:09.173507+00:00", "event": "launch", "job": "seediv_f4", "screen": "nq_cd3f4ea9_seediv_f4", "core": 12, "available_ram_mib": 48234.45703125, "free_cuda_mib": 81937.52734375}
+{"time": "2026-09-10T11:20:09.175031+00:00", "event": "launch", "job": "seedv_f4", "screen": "nq_cd3f4ea9_seedv_f4", "core": 13, "available_ram_mib": 40441.96484375, "free_cuda_mib": 79264.7890625}
+{"time": "2026-09-10T11:38:59.436385+00:00", "event": "complete", "job": "seedv_f3", "exit_code": 0, "started": 1789039209.2149029, "finished": 1789040335.7481675}
+{"time": "2026-09-10T11:38:59.439039+00:00", "event": "launch", "job": "seedvii_f4", "screen": "nq_cd3f4ea9_seedvii_f4", "core": 10, "available_ram_mib": 73317.2734375, "free_cuda_mib": 59949.9140625}
+{"time": "2026-09-10T11:39:29.450331+00:00", "event": "complete", "job": "seedv_f0", "exit_code": 0, "started": 1789039209.2128596, "finished": 1789040365.0156891}
+{"time": "2026-09-10T11:39:29.450965+00:00", "event": "complete", "job": "seedv_f1", "exit_code": 0, "started": 1789039209.2217453, "finished": 1789040364.7710478}
+{"time": "2026-09-10T11:39:29.451133+00:00", "event": "complete", "job": "seedv_f4", "exit_code": 0, "started": 1789039209.2316005, "finished": 1789040368.065852}
+{"time": "2026-09-10T11:39:29.452938+00:00", "event": "launch", "job": "seediv_f5", "screen": "nq_cd3f4ea9_seediv_f5", "core": 1, "available_ram_mib": 73031.68359375, "free_cuda_mib": 63019.13671875}
+{"time": "2026-09-10T11:39:29.454295+00:00", "event": "launch", "job": "seedv_f5", "screen": "nq_cd3f4ea9_seedv_f5", "core": 4, "available_ram_mib": 65239.68359375, "free_cuda_mib": 60347.13671875}
+{"time": "2026-09-10T11:39:29.455716+00:00", "event": "launch", "job": "seedvii_f5", "screen": "nq_cd3f4ea9_seedvii_f5", "core": 13, "available_ram_mib": 61532.9453125, "free_cuda_mib": 59928.3984375}
+{"time": "2026-09-10T11:39:34.456629+00:00", "event": "complete", "job": "seedv_f2", "exit_code": 0, "started": 1789039209.2130363, "finished": 1789040369.8988113}
+{"time": "2026-09-10T11:39:34.458636+00:00", "event": "launch", "job": "seediv_f6", "screen": "nq_cd3f4ea9_seediv_f6", "core": 7, "available_ram_mib": 57411.7734375, "free_cuda_mib": 59163.0546875}
+{"time": "2026-09-10T12:00:39.741766+00:00", "event": "complete", "job": "seedv_f5", "exit_code": 0, "started": 1789040369.5111113, "finished": 1789041635.2709}
+{"time": "2026-09-10T12:00:39.744281+00:00", "event": "launch", "job": "seedv_f6", "screen": "nq_cd3f4ea9_seedv_f6", "core": 4, "available_ram_mib": 65621.60546875, "free_cuda_mib": 52241.93359375}
+{"time": "2026-09-10T12:05:19.812976+00:00", "event": "complete", "job": "seedvii_f2", "exit_code": 0, "started": 1789039209.2148395, "finished": 1789041919.038095}
+{"time": "2026-09-10T12:05:19.816246+00:00", "event": "launch", "job": "seedvii_f6", "screen": "nq_cd3f4ea9_seedvii_f6", "core": 8, "available_ram_mib": 65673.09765625, "free_cuda_mib": 52292.0546875}
+{"time": "2026-09-10T12:06:04.831903+00:00", "event": "complete", "job": "seedvii_f0", "exit_code": 0, "started": 1789039209.2158666, "finished": 1789041961.3733873}
+{"time": "2026-09-10T12:06:04.834017+00:00", "event": "launch", "job": "seediv_f7", "screen": "nq_cd3f4ea9_seediv_f7", "core": 2, "available_ram_mib": 65668.015625, "free_cuda_mib": 52286.39453125}
+{"time": "2026-09-10T12:06:09.834948+00:00", "event": "complete", "job": "seedvii_f3", "exit_code": 0, "started": 1789039209.2157707, "finished": 1789041967.672693}
+{"time": "2026-09-10T12:06:09.837203+00:00", "event": "launch", "job": "seedv_f7", "screen": "nq_cd3f4ea9_seedv_f7", "core": 11, "available_ram_mib": 60584.01953125, "free_cuda_mib": 52322.1796875}
+{"time": "2026-09-10T12:06:14.838093+00:00", "event": "complete", "job": "seedvii_f1", "exit_code": 0, "started": 1789039209.2259815, "finished": 1789041969.82898}
+{"time": "2026-09-10T12:06:14.840552+00:00", "event": "launch", "job": "seedvii_f7", "screen": "nq_cd3f4ea9_seedvii_f7", "core": 5, "available_ram_mib": 55918.98828125, "free_cuda_mib": 50944.22265625}
+{"time": "2026-09-10T12:22:00.051536+00:00", "event": "complete", "job": "seedv_f6", "exit_code": 0, "started": 1789041639.8000228, "finished": 1789042917.5602772}
+{"time": "2026-09-10T12:22:00.054247+00:00", "event": "launch", "job": "seediv_f8", "screen": "nq_cd3f4ea9_seediv_f8", "core": 4, "available_ram_mib": 62285.6640625, "free_cuda_mib": 48797.5859375}
+{"time": "2026-09-10T12:27:15.126876+00:00", "event": "complete", "job": "seedvii_f4", "exit_code": 0, "started": 1789040339.49347, "finished": 1789043232.5313401}
+{"time": "2026-09-10T12:27:15.129616+00:00", "event": "launch", "job": "seedv_f8", "screen": "nq_cd3f4ea9_seedv_f8", "core": 10, "available_ram_mib": 58616.18359375, "free_cuda_mib": 45126.12890625}
+{"time": "2026-09-10T12:27:25.131989+00:00", "event": "complete", "job": "seedvii_f5", "exit_code": 0, "started": 1789040369.5129273, "finished": 1789043243.0767787}
+{"time": "2026-09-10T12:27:25.135005+00:00", "event": "launch", "job": "seedvii_f8", "screen": "nq_cd3f4ea9_seedvii_f8", "core": 13, "available_ram_mib": 55000.83203125, "free_cuda_mib": 44798.58984375}
+{"time": "2026-09-10T12:28:05.144734+00:00", "event": "complete", "job": "seedv_f7", "exit_code": 0, "started": 1789041969.9134922, "finished": 1789043280.518126}
+{"time": "2026-09-10T12:28:05.148665+00:00", "event": "launch", "job": "seediv_f9", "screen": "nq_cd3f4ea9_seediv_f9", "core": 11, "available_ram_mib": 54781.6875, "free_cuda_mib": 44646.23828125}
+{"time": "2026-09-10T12:50:00.533192+00:00", "event": "complete", "job": "seedv_f8", "exit_code": 0, "started": 1789043235.1792278, "finished": 1789044599.128063}
+{"time": "2026-09-10T12:50:00.535351+00:00", "event": "launch", "job": "seedv_f9", "screen": "nq_cd3f4ea9_seedv_f9", "core": 10, "available_ram_mib": 54822.546875, "free_cuda_mib": 41326.8359375}
+{"time": "2026-09-10T12:56:20.621873+00:00", "event": "complete", "job": "seedvii_f6", "exit_code": 0, "started": 1789041919.8727007, "finished": 1789044979.712997}
+{"time": "2026-09-10T12:56:20.624379+00:00", "event": "launch", "job": "seedvii_f9", "screen": "nq_cd3f4ea9_seedvii_f9", "core": 8, "available_ram_mib": 54851.62109375, "free_cuda_mib": 41354.35546875}
+{"time": "2026-09-10T12:57:05.638656+00:00", "event": "complete", "job": "seedvii_f7", "exit_code": 0, "started": 1789041974.8949296, "finished": 1789045023.5372062}
+{"time": "2026-09-10T12:57:05.641071+00:00", "event": "launch", "job": "seediv_f10", "screen": "nq_cd3f4ea9_seediv_f10", "core": 5, "available_ram_mib": 51023.8203125, "free_cuda_mib": 40881.94140625}
+{"time": "2026-09-10T13:07:55.793938+00:00", "event": "complete", "job": "seediv_f1", "exit_code": 0, "started": 1789039209.2137368, "finished": 1789045675.4638758}
+{"time": "2026-09-10T13:07:55.794450+00:00", "event": "complete", "job": "seediv_f4", "exit_code": 0, "started": 1789039209.2158554, "finished": 1789045674.7834623}
+{"time": "2026-09-10T13:07:55.796761+00:00", "event": "launch", "job": "seedv_f10", "screen": "nq_cd3f4ea9_seedv_f10", "core": 3, "available_ram_mib": 55796.484375, "free_cuda_mib": 42295.7890625}
+{"time": "2026-09-10T13:07:55.798610+00:00", "event": "launch", "job": "seedvii_f10", "screen": "nq_cd3f4ea9_seedvii_f10", "core": 12, "available_ram_mib": 52090.484375, "free_cuda_mib": 41877.7890625}
+{"time": "2026-09-10T13:09:10.818086+00:00", "event": "complete", "job": "seediv_f3", "exit_code": 0, "started": 1789039209.2137895, "finished": 1789045749.7427075}
+{"time": "2026-09-10T13:09:10.820066+00:00", "event": "launch", "job": "seediv_f11", "screen": "nq_cd3f4ea9_seediv_f11", "core": 9, "available_ram_mib": 55261.80078125, "free_cuda_mib": 41759.8203125}
+{"time": "2026-09-10T13:09:40.826387+00:00", "event": "complete", "job": "seediv_f0", "exit_code": 0, "started": 1789039209.2133894, "finished": 1789045778.0288622}
+{"time": "2026-09-10T13:09:40.826679+00:00", "event": "complete", "job": "seediv_f2", "exit_code": 0, "started": 1789039209.2179205, "finished": 1789045777.414341}
+{"time": "2026-09-10T13:09:40.828927+00:00", "event": "launch", "job": "seedv_f11", "screen": "nq_cd3f4ea9_seedv_f11", "core": 0, "available_ram_mib": 51339.25390625, "free_cuda_mib": 42956.1640625}
+{"time": "2026-09-10T13:09:40.830484+00:00", "event": "launch", "job": "seedvii_f11", "screen": "nq_cd3f4ea9_seedvii_f11", "core": 6, "available_ram_mib": 47633.25390625, "free_cuda_mib": 42538.1640625}
+{"time": "2026-09-10T13:13:00.886634+00:00", "event": "complete", "job": "seedv_f9", "exit_code": 0, "started": 1789044600.593216, "finished": 1789045980.7384686}
+{"time": "2026-09-10T13:13:00.889629+00:00", "event": "launch", "job": "seediv_f12", "screen": "nq_cd3f4ea9_seediv_f12", "core": 10, "available_ram_mib": 57165.27734375, "free_cuda_mib": 43660.1640625}
+{"time": "2026-09-10T13:20:35.993075+00:00", "event": "complete", "job": "seedvii_f8", "exit_code": 0, "started": 1789043245.1929643, "finished": 1789046434.8264997}
+{"time": "2026-09-10T13:20:35.995432+00:00", "event": "launch", "job": "seedv_f12", "screen": "nq_cd3f4ea9_seedv_f12", "core": 13, "available_ram_mib": 55777.28515625, "free_cuda_mib": 42269.8125}
+{"time": "2026-09-10T13:29:16.109695+00:00", "event": "complete", "job": "seedv_f10", "exit_code": 0, "started": 1789045675.853293, "finished": 1789046954.4466743}
+{"time": "2026-09-10T13:29:16.112582+00:00", "event": "launch", "job": "seedvii_f12", "screen": "nq_cd3f4ea9_seedvii_f12", "core": 3, "available_ram_mib": 55600.515625, "free_cuda_mib": 42091.015625}
+{"time": "2026-09-10T13:29:46.119286+00:00", "event": "complete", "job": "seediv_f6", "exit_code": 0, "started": 1789040374.5093496, "finished": 1789046985.698432}
+{"time": "2026-09-10T13:29:46.121951+00:00", "event": "launch", "job": "seediv_f13", "screen": "nq_cd3f4ea9_seediv_f13", "core": 7, "available_ram_mib": 53050.53125, "free_cuda_mib": 42896.4609375}
+{"time": "2026-09-10T13:29:56.123837+00:00", "event": "complete", "job": "seediv_f5", "exit_code": 0, "started": 1789040369.5147018, "finished": 1789046991.8827925}
+{"time": "2026-09-10T13:29:56.126080+00:00", "event": "launch", "job": "seedv_f13", "screen": "nq_cd3f4ea9_seedv_f13", "core": 1, "available_ram_mib": 47209.76953125, "free_cuda_mib": 42174.71484375}
+{"time": "2026-09-10T13:30:46.135246+00:00", "event": "complete", "job": "seedv_f11", "exit_code": 0, "started": 1789045780.8843608, "finished": 1789047045.0204039}
+{"time": "2026-09-10T13:30:46.137434+00:00", "event": "launch", "job": "seedvii_f13", "screen": "nq_cd3f4ea9_seedvii_f13", "core": 0, "available_ram_mib": 49408.46875, "free_cuda_mib": 41016.16015625}
+{"time": "2026-09-10T13:42:01.297741+00:00", "event": "complete", "job": "seedv_f12", "exit_code": 0, "started": 1789046436.0481303, "finished": 1789047717.435919}
+{"time": "2026-09-10T13:42:01.300428+00:00", "event": "launch", "job": "seediv_f14", "screen": "nq_cd3f4ea9_seediv_f14", "core": 13, "available_ram_mib": 56967.73828125, "free_cuda_mib": 43452.203125}
+{"time": "2026-09-10T13:45:41.353559+00:00", "event": "complete", "job": "seedvii_f9", "exit_code": 0, "started": 1789044980.674815, "finished": 1789047940.8312957}
+{"time": "2026-09-10T13:45:41.356070+00:00", "event": "launch", "job": "seedv_f14", "screen": "nq_cd3f4ea9_seedv_f14", "core": 8, "available_ram_mib": 55586.359375, "free_cuda_mib": 42068.953125}
+{"time": "2026-09-10T13:50:56.433664+00:00", "event": "complete", "job": "seedv_f13", "exit_code": 0, "started": 1789046996.1854568, "finished": 1789048255.7851064}
+{"time": "2026-09-10T13:50:56.435878+00:00", "event": "launch", "job": "seedvii_f14", "screen": "nq_cd3f4ea9_seedvii_f14", "core": 1, "available_ram_mib": 55571.39453125, "free_cuda_mib": 42052.484375}
+{"time": "2026-09-10T13:56:21.513801+00:00", "event": "complete", "job": "seedvii_f10", "exit_code": 0, "started": 1789045675.8532777, "finished": 1789048580.5645015}
+{"time": "2026-09-10T13:56:21.516406+00:00", "event": "launch", "job": "seedv_f15", "screen": "nq_cd3f4ea9_seedv_f15", "core": 12, "available_ram_mib": 55570.74609375, "free_cuda_mib": 42050.57421875}
+{"time": "2026-09-10T13:56:26.517458+00:00", "event": "complete", "job": "seediv_f7", "exit_code": 0, "started": 1789041964.8915093, "finished": 1789048586.0142267}
+{"time": "2026-09-10T13:56:26.519659+00:00", "event": "launch", "job": "seedvii_f15", "screen": "nq_cd3f4ea9_seedvii_f15", "core": 2, "available_ram_mib": 54897.0546875, "free_cuda_mib": 44664.69921875}
+{"time": "2026-09-10T13:58:56.558644+00:00", "event": "complete", "job": "seedvii_f11", "exit_code": 0, "started": 1789045780.8880098, "finished": 1789048734.439399}
+{"time": "2026-09-10T13:58:56.560928+00:00", "event": "launch", "job": "seedvii_f16", "screen": "nq_cd3f4ea9_seedvii_f16", "core": 6, "available_ram_mib": 57216.19921875, "free_cuda_mib": 43694.40234375}
+{"time": "2026-09-10T14:07:11.677866+00:00", "event": "complete", "job": "seedv_f14", "exit_code": 0, "started": 1789047941.410697, "finished": 1789049226.9298062}
+{"time": "2026-09-10T14:07:11.680569+00:00", "event": "launch", "job": "seedvii_f17", "screen": "nq_cd3f4ea9_seedvii_f17", "core": 8, "available_ram_mib": 57038.03125, "free_cuda_mib": 43514.421875}
+{"time": "2026-09-10T14:11:51.749907+00:00", "event": "complete", "job": "seediv_f8", "exit_code": 0, "started": 1789042920.1056426, "finished": 1789049510.781634}
+{"time": "2026-09-10T14:11:51.752509+00:00", "event": "launch", "job": "seedvii_f18", "screen": "nq_cd3f4ea9_seedvii_f18", "core": 4, "available_ram_mib": 58439.6171875, "free_cuda_mib": 44914.8046875}
+{"time": "2026-09-10T14:16:46.823200+00:00", "event": "complete", "job": "seedvii_f12", "exit_code": 0, "started": 1789046956.1627967, "finished": 1789049806.7692578}
+{"time": "2026-09-10T14:16:46.826014+00:00", "event": "launch", "job": "seedvii_f19", "screen": "nq_cd3f4ea9_seedvii_f19", "core": 3, "available_ram_mib": 58382.02734375, "free_cuda_mib": 44855.92578125}
+{"time": "2026-09-10T14:17:11.831953+00:00", "event": "complete", "job": "seedv_f15", "exit_code": 0, "started": 1789048581.5637484, "finished": 1789049827.2928016}
+{"time": "2026-09-10T14:17:36.838446+00:00", "event": "complete", "job": "seediv_f9", "exit_code": 0, "started": 1789043285.2000914, "finished": 1789049855.4651823}
+{"time": "2026-09-10T14:18:11.846642+00:00", "event": "complete", "job": "seedvii_f13", "exit_code": 0, "started": 1789047046.1946933, "finished": 1789049887.1979365}
+{"time": "2026-09-10T14:34:52.078599+00:00", "event": "complete", "job": "seedvii_f14", "exit_code": 0, "started": 1789048256.4926453, "finished": 1789050890.5495973}
+{"time": "2026-09-10T14:37:22.117123+00:00", "event": "complete", "job": "seedvii_f15", "exit_code": 0, "started": 1789048586.5721807, "finished": 1789051038.0250182}
+{"time": "2026-09-10T14:37:32.119509+00:00", "event": "complete", "job": "seediv_f10", "exit_code": 0, "started": 1789045025.6914215, "finished": 1789051047.4062374}
+{"time": "2026-09-10T14:38:52.139132+00:00", "event": "complete", "job": "seedvii_f16", "exit_code": 0, "started": 1789048736.6105995, "finished": 1789051128.8856316}
+{"time": "2026-09-10T14:43:02.197883+00:00", "event": "complete", "job": "seediv_f11", "exit_code": 0, "started": 1789045750.8712332, "finished": 1789051378.044213}
+{"time": "2026-09-10T14:43:12.200220+00:00", "event": "complete", "job": "seedvii_f17", "exit_code": 0, "started": 1789049231.7326481, "finished": 1789051387.1940637}
+{"time": "2026-09-10T14:45:02.229239+00:00", "event": "complete", "job": "seediv_f12", "exit_code": 0, "started": 1789045980.9425964, "finished": 1789051501.6378376}
+{"time": "2026-09-10T14:45:07.230797+00:00", "event": "complete", "job": "seedvii_f18", "exit_code": 0, "started": 1789049511.8055148, "finished": 1789051503.6642947}
+{"time": "2026-09-10T14:46:47.254989+00:00", "event": "complete", "job": "seedvii_f19", "exit_code": 0, "started": 1789049806.8766832, "finished": 1789051602.65104}
+{"time": "2026-09-10T14:48:12.274256+00:00", "event": "complete", "job": "seediv_f13", "exit_code": 0, "started": 1789046986.1713915, "finished": 1789051692.2058113}
+{"time": "2026-09-10T14:49:37.296601+00:00", "event": "complete", "job": "seediv_f14", "exit_code": 0, "started": 1789047721.3551114, "finished": 1789051777.071049}
+{"time": "2026-09-10T14:49:37.297342+00:00", "event": "done", "completed": 51, "failed": 0}

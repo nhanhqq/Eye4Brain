@@ -1,0 +1,26 @@
+{
+  "started": "2026-09-10T11:20:09.066417+00:00",
+  "scheduler_pid": 63991,
+  "max_parallel": 15,
+  "cores": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "gpu": "NVIDIA Thor",
+  "ram_reserve_mib": 8192,
+  "cuda_reserve_mib": 0,
+  "protocol": "non_strict_target_selected",
+  "profile_plan": "/home/nhanhq/Eye4Brain/results/workflow_20260910/resource_profiles.json"
+}
